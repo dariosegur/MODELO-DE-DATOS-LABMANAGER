@@ -1,1 +1,2 @@
 # MODELO-DE-DATOS-LABMANAGER
+Modelo de datos, procedimientos almacenados y vistas en sql transac, que soportan la operación del proceso de préstamo y recepción de equipos, y que garantizan la integridad y seguridad de la información del proceso.
